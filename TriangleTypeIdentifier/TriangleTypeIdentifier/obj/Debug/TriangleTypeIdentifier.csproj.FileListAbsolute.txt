@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe.config
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.exe
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\bin\Debug\TriangleTypeIdentifier.pdb
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.exe
+C:\Users\LENOVO\source\repos\TriangleTypeIdentifier\TriangleTypeIdentifier\obj\Debug\TriangleTypeIdentifier.pdb
